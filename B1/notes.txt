@@ -1,0 +1,6 @@
+in this task we need to program a converter which will convert a decimal number into its 8-bit equivalent.
+there is is a catch though; the task asks for it to be in 8-bit so using the bin() function will not solve the question,
+the reason for this is is that if you do 'bin(1)' it will output '0b1', not '00000001'.
+i suggest you do some reading on the 'format()' function: https://docs.python.org/2/library/string.html#format-specification-mini-language
+good luck! 
+
